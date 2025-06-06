@@ -29,12 +29,3 @@ The task involved setting up and using a free VPN client to understand how Virtu
 ## 📸 Screenshot
 
 > Screenshot of ProtonVPN “Connected” status included in the report (real IP blurred for privacy).
-
-## 📁 Files
-
-- `VPN_Report_Brahamdeep.pdf` or `.docx` (add your format)
-- Screenshot folder (optional)
-
----
-
-Feel free to use or modify this README for educational submissions or cybersecurity portfolios.
