@@ -1,0 +1,107 @@
+📄 VPN Report – Task 8: Working and Understanding VPN
+
+
+✅ 1. VPN Setup Steps
+Step 1: Choose a VPN Service
+I selected ProtonVPN, a trustworthy and secure free VPN provider known for strong encryption, unlimited bandwidth, and a no-logs policy.
+
+
+Step 2: Sign Up
+    Visited https://protonvpn.com
+
+    Signed up using an email ID and created a password
+
+    Verified email to activate the account
+
+
+Step 3: Download and Install
+    Downloaded the ProtonVPN app for Windows from the official site
+
+    Installed the app using the setup wizard
+
+    Launched the application successfully
+
+
+Step 4: Log In
+    Logged into the ProtonVPN desktop client using registered credentials
+
+    Step 5: Connect to a Server
+    Clicked “Quick Connect” to connect to the fastest available free server
+
+    Connected to a Netherlands-based server
+
+    App displayed a green “Connected” status with server and new IP address
+
+
+Step 6: Verify IP Address
+    Before VPN: IP was linked to my real location (India)
+
+    After VPN: IP changed to a Netherlands-based IP (masked here for privacy)
+
+    Verified using https://whatismyipaddress.com
+
+
+Step 7: Browse to Test Encryption
+    Browsed several websites including DuckDuckGo, YouTube, and ProtonMail
+
+    Verified that traffic was encrypted (HTTPS) and routed through the VPN
+
+
+Step 8: Disconnect and Compare
+    Disconnected the VPN
+
+    IP reverted to the original ISP-assigned address
+
+    Browsing speed slightly improved without the VPN, as expected
+
+
+🔐  VPN Encryption and Privacy Features
+    🔒 Encryption Protocols
+        OpenVPN and WireGuard supported — both secure, open-source, and trusted by industry professionals
+
+        ProtonVPN uses AES-256 encryption, considered military-grade
+
+        Includes Perfect Forward Secrecy (PFS): generates unique keys for each session
+
+
+🛡️ Privacy Features
+    No-Logs Policy: ProtonVPN does not track browsing or IP data
+
+    Kill Switch: Cuts internet if VPN drops, preventing data leaks
+
+    DNS Leak Protection: Ensures DNS requests are also encrypted and anonymized
+
+    IPv6 Leak Blocking: Stops IPv6 traffic from bypassing the VPN tunnel
+
+    Secure Core (ProtonVPN feature): Routes traffic through multiple hardened servers for better anonymity
+
+    Tor Over VPN: Option to route traffic through Tor network for extra privacy
+
+
+📌  Summary – VPN Benefits and Limitations
+    ✅ Benefits
+    Hides your IP and location for private, anonymous browsing
+
+    Encrypts data on public Wi-Fi, protecting credentials and personal info
+
+    Bypasses geo-restrictions and internet censorship
+
+    Useful for cybersecurity practices like testing or secure research
+
+    Prevents ISP tracking and targeted ads
+
+
+⚠️ Limitations
+    Slightly reduces internet speed due to encryption and routing overhead
+
+    Doesn’t block phishing or malware — not a replacement for antivirus
+
+    Free VPNs may have limited features, servers, or slower speeds
+
+    Some websites block VPN traffic
+
+    Not all VPNs are trustworthy — some log and sell data
+
+
+🧠 Conclusion
+    VPNs are essential tools for ensuring privacy and security online. Through this task, I learned how to install, configure, and use a VPN client to protect my data and mask my identity online. While VPNs offer strong encryption and privacy, they must be used alongside other cybersecurity practices for full protection.
