@@ -26,6 +26,3 @@ The task involved setting up and using a free VPN client to understand how Virtu
 - Useful for privacy, security, and bypassing censorship.
 - Free VPNs may have speed and feature limitations.
 
-## 📸 Screenshot
-
-> Screenshot of ProtonVPN “Connected” status included in the report (real IP blurred for privacy).
